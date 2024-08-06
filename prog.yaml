@@ -1,0 +1,12 @@
+train: /content/drive/MyDrive/sih/sih.v1i.yolov8/train/images
+val: /content/drive/MyDrive/sih/sih.v1i.yolov8/valid/images
+test: /content/drive/MyDrive/sih/sih.v1i.yolov8/test/images
+nc: 2
+names: ['Fault', 'Working']
+
+roboflow:
+  workspace: final-dataset-vtxdl
+  project: sih-gabpu
+  version: 1
+  license: CC BY 4.0
+  url: (--url of dataset--)
