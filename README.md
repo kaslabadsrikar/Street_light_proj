@@ -2,6 +2,8 @@
 
 Centralized Monitoring System for Street Light Fault Detection and Location Tracking
 
+Demo - https://www.youtube.com/watch?v=8h7lmzbYSU0
+
 Jetson Nano - https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
 
 Roboflow - It is a Computer Vision developer framework for better data collection to preprocessing, and model training techniques. Roboflow has public datasets readily available to users and has access for users to upload their own custom data also. Roboflow accepts various annotation formats. In data pre-processing, there are steps involved such as image orientations, resizing, contrasting, and data augmentations.
