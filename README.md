@@ -2,7 +2,7 @@
 
 Centralized Monitoring System for Street Light Fault Detection and Location Tracking
 
-Demo - https://www.youtube.com/watch?v=8h7lmzbYSU0
+Prototype - https://www.youtube.com/watch?v=8h7lmzbYSU0
 
 Jetson Nano - https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
 
